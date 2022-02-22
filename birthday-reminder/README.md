@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![Screenshot](./screenshot.png 'Screenshot of calculate average dark mode')
+![Screenshot](./screenshot.png)
 
 ## Technologies Used:
 -  HTML
