@@ -6,5 +6,6 @@ I put every React.js mini-projects I do here
 - [Birthday reminder](./birthday-reminder)
 - [Menu](./menu)
 - [Reviews](./reviews)
+- [Slider](./slider)
 - [Tabs](./tabs)
 - [Tours](./tours)
