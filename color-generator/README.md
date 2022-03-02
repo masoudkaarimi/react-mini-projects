@@ -9,7 +9,7 @@
 - HTML
 - CSS
 - React.js
-- values.js
+- Values.js
 
 ## How to use
 

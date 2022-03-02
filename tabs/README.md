@@ -5,9 +5,10 @@
 ![Screenshot](./screenshot.png)
 
 ## Technologies Used:
--  HTML
--  CSS
--  React.js
+- HTML
+- CSS
+- React.js
+- React Icons
 
 ## How to use
 -  Clone the project

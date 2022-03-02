@@ -4,14 +4,14 @@
 ![Screenshot](./screenshot.png)
 
 ## Technologies Used:
--  HTML
--  CSS
--  React.js
+- HTML
+- CSS
+- React.js
 
 ## How to use
--  Clone the project
--  Install Node Js (v16.13.1)
--  Run `npm install` to current directory
+- Clone the project
+- Install Node Js (v16.13.1)
+- Run `npm install` to current directory
 
 ## Run app
 In the project directory, you can run:
