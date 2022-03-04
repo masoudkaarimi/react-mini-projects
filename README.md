@@ -5,6 +5,7 @@ I put every React.js mini-projects I do here
 - [Accordion](./accordion)
 - [Birthday reminder](./birthday-reminder)
 - [Color generator](./color-generator)
+- [Grocery bud](./grocery-bud)
 - [Lorem ipsum generator](./lorem-ipsum-generator)
 - [Menu](./menu)
 - [Reviews](./reviews)
