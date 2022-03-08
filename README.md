@@ -10,6 +10,7 @@ I put every React.js mini-projects I do here
 - [Menu](./menu)
 - [Navbar](./navbar)
 - [Reviews](./reviews)
+- [Sidebar menu and modal](./sidebar-menu-and-modal)
 - [Slider](./slider)
 - [Tabs](./tabs)
 - [Tours](./tours)
