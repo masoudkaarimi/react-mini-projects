@@ -12,5 +12,6 @@ I put every React.js mini-projects I do here
 - [Reviews](./reviews)
 - [Sidebar menu and modal](./sidebar-menu-and-modal)
 - [Slider](./slider)
+- [Stripe submenus clone](./stripe-submenus-clone)
 - [Tabs](./tabs)
 - [Tours](./tours)
