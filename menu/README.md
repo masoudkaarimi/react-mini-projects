@@ -7,6 +7,7 @@
 - HTML
 - CSS
 - React.js
+   - useState
 
 ## How to use
 - Clone the project

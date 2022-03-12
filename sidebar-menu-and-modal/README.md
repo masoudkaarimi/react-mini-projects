@@ -8,8 +8,9 @@
 - HTML
 - CSS
 - React.js
-- React Context API
-- React Icons
+   - useState
+   - useContext
+   - React Icons
 
 ## How to use
 - Clone the project

@@ -9,6 +9,9 @@
 - HTML
 - CSS
 - React.js
+   - useState
+   - useEffect
+   - React Icons
 - Local Storage
 
 ## How to use

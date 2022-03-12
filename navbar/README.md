@@ -9,7 +9,10 @@
 - HTML
 - CSS
 - React.js
-- React Icons
+   - useState
+   - useEffect
+   - useRef
+   - React Icons
 
 ## How to use
 - Clone the project

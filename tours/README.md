@@ -8,6 +8,8 @@
 - HTML
 - CSS
 - React.js
+   - useState
+   - useEffect
 
 ## How to use
 - Clone the project

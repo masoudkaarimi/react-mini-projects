@@ -8,7 +8,8 @@
 - HTML
 - CSS
 - React.js
-- React Icons
+   - useState
+   - React Icons
 
 ## How to use
 - Clone the project

@@ -9,6 +9,8 @@
 - HTML
 - CSS
 - React.js
+   - useState
+   - useEffect
 - Values.js
 
 ## How to use
