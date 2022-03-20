@@ -8,6 +8,7 @@ I put every React.js mini-projects I do here
 - [Color generator](./color-generator)
 - [Grocery bud](./grocery-bud)
 - [Lorem ipsum generator](./lorem-ipsum-generator)
+- [Markdown preview](./markdown-preview)
 - [Menu](./menu)
 - [Navbar](./navbar)
 - [Reviews](./reviews)
