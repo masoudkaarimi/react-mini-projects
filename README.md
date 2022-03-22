@@ -13,6 +13,7 @@ I put every React.js mini-projects I do here
 -  [Markdown preview](./markdown-preview)
 -  [Menu](./menu)
 -  [Navbar](./navbar)
+-  [Pagination](./pagination)
 -  [Random person](./random-person)
 -  [Reviews](./reviews)
 -  [Sidebar menu and modal](./sidebar-menu-and-modal)
