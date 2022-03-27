@@ -9,7 +9,7 @@
 - HTML
 - CSS
 - React.js
-   - react-router-dom
+   - React Router Dom
    - useCallback
    - useContext
    - useEffect
