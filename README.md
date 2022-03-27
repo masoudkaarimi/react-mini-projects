@@ -13,6 +13,7 @@ I put every React.js mini-projects I do here
 -  [Lorem ipsum generator](./lorem-ipsum-generator)
 -  [Markdown preview](./markdown-preview)
 -  [Menu](./menu)
+-  [Movie DB](./movie-db)
 -  [Navbar](./navbar)
 -  [Pagination](./pagination)
 -  [Random person](./random-person)
