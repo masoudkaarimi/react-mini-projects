@@ -18,7 +18,7 @@
 - Clone the project
 - Install Node Js (v16.13.1)
 - Run `npm install` to current directory
-- Requires api.unsplash.com __*ACCESS_KEY*__
+- Requires __*ACCESS_KEY*__ from __*api.unsplash.com*__ 
 - Rename __*.env.sample*__ to __*.env*__ and insert access key
 
 ## Run app
