@@ -19,7 +19,7 @@
 - Clone the project
 - Install Node Js (v16.13.1)
 - Run `npm install` to current directory
-- Requires __*API_KEY*__ from __*www.omdbapi.com*__
+- Requires __*API_KEY*__ from __*omdbapi.com*__
 - Rename __*.env.sample*__ to __*.env*__ and insert API key
 
 ## Run app
