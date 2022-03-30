@@ -10,6 +10,7 @@ I put every React.js mini-projects I do here
 -  [Color generator](./color-generator)
 -  [Dark mode](./dark-mode)
 -  [Grocery bud](./grocery-bud)
+-  [Hacker news](./hacker-news)
 -  [Lorem ipsum generator](./lorem-ipsum-generator)
 -  [Markdown preview](./markdown-preview)
 -  [Menu](./menu)
