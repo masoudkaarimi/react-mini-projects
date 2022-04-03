@@ -17,6 +17,7 @@ I put every React.js mini-projects I do here
 -  [Movie DB](./movie-db)
 -  [Navbar](./navbar)
 -  [Pagination](./pagination)
+-  [Quiz](./quiz)
 -  [Random person](./random-person)
 -  [Reviews](./reviews)
 -  [Sidebar menu and modal](./sidebar-menu-and-modal)
