@@ -26,4 +26,5 @@ I put every React.js mini-projects I do here
 -  [Stock photos](./stock-photos)
 -  [Stripe submenus clone](./stripe-submenus-clone)
 -  [Tabs](./tabs)
+-  [Todo List - MERN Stack](./todo-list-mern-stack)
 -  [Tours](./tours)
